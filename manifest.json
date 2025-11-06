@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-telegram-save-youtube",
+  "name": "Obsidian telegram save YouTube",
+  "version": "0.1.0",
+  "minAppVersion": "1.0.0",
+  "description": "Receive JSON via HTTP POST and save to markdown",
+  "author": "KKittyCatik",
+  "authorUrl": "https://github.com/KKittyCatik",
+  "isDesktopOnly": true
+}
