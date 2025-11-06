@@ -1,4 +1,4 @@
-# 📥 obsidian-telegram-save-youtube
+# 📥 obsidian-saving-md-via-telegram
 
 A local HTTP server for receiving JSON requests (for example, from a Telegram bot)
 and automatically saving YouTube video information into your Obsidian vault as Markdown notes.
